@@ -45,4 +45,15 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+comandos usado nao projeto
+
+-install
+npm install
+
+- criar servidor com vite
+  npm run dev
+
+-vite
+criaçao: npm create vite@latest
+
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
